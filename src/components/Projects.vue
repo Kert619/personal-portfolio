@@ -29,7 +29,12 @@
             </q-card-section>
 
             <q-card-actions align="center" class="absolute-bottom q-pa-lg">
-              <q-btn color="secondary">Visit Site</q-btn>
+              <q-btn
+                color="secondary"
+                href="https://sdtp-attendance.fly.dev/"
+                target="_blank"
+                >Visit Site</q-btn
+              >
             </q-card-actions>
           </q-card>
 
@@ -50,7 +55,12 @@
             </q-card-section>
 
             <q-card-actions align="center" class="absolute-bottom q-pa-lg">
-              <q-btn color="secondary">Visit Site</q-btn>
+              <q-btn
+                color="secondary"
+                href="https://mycampusmate.fly.dev"
+                target="_blank"
+                >Visit Site</q-btn
+              >
             </q-card-actions>
           </q-card>
 
@@ -72,7 +82,12 @@
             </q-card-section>
 
             <q-card-actions align="center" class="absolute-bottom q-pa-lg">
-              <q-btn color="secondary">Visit Site</q-btn>
+              <q-btn
+                color="secondary"
+                href="https://kert619.github.io/natours/"
+                target="_blank"
+                >Visit Site</q-btn
+              >
             </q-card-actions>
           </q-card>
 
@@ -92,7 +107,12 @@
             </q-card-section>
 
             <q-card-actions align="center" class="absolute-bottom q-pa-lg">
-              <q-btn color="secondary">Visit Site</q-btn>
+              <q-btn
+                color="secondary"
+                href="https://teachertribe.fly.dev"
+                target="_blank"
+                >Visit Site</q-btn
+              >
             </q-card-actions>
           </q-card>
 
@@ -114,7 +134,12 @@
             </q-card-section>
 
             <q-card-actions align="center" class="absolute-bottom q-pa-lg">
-              <q-btn color="secondary">Visit Site</q-btn>
+              <q-btn
+                color="secondary"
+                href="https://github.com/Kert619/teachertribe-elearn"
+                target="_blank"
+                >Visit Site</q-btn
+              >
             </q-card-actions>
           </q-card>
         </div>

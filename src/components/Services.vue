@@ -145,6 +145,16 @@
               MYSQL
             </div>
           </q-card>
+          <q-card class="service-card" flat bordered>
+            <div class="q-pa-md">
+              <q-img src="/github.png" />
+            </div>
+            <div
+              class="text-caption text-center q-pa-sm bg-primary text-white text-weight-bold q-mt-auto"
+            >
+              GITHUB
+            </div>
+          </q-card>
         </div>
       </transition>
     </div>
