@@ -1,0 +1,9 @@
+// app global css in SCSS form
+.max-width-lg {
+  max-width: $max-width;
+  margin: 0 auto;
+}
+
+.border-b-secondary {
+  border-bottom: 2px solid $secondary;
+}
